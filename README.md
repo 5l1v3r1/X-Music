@@ -1,6 +1,6 @@
 # X-Music
-*X-Music adalah layanan streaming musik dan lemari musik daring yang dioperasikan oleh Stepbystep. Pengguna dapat mengunggah dan mendengarkan hingga 1trilon lagu tanpa biaya.
-# Screenshot:
+*X-Music adalah layanan streaming musik dan lemari musik daring yang dioperasikan oleh Stepbystep. Pengguna dapat mengunggah dan mendengarkan hingga 1trilon lagu tanpa biaya.*
+#### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
 ```
