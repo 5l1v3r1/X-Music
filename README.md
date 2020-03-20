@@ -12,6 +12,8 @@ cd X-Music
 ls
 python2 x-music.py
 ```
+#### Audio:
+Untuk memutr musik install ```mpv```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp https://tinyurl.com/wel4alo
