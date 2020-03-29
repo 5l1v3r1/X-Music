@@ -2,7 +2,7 @@
 <h5 align="center">X-Music adalah layanan streaming musik dan lemari musik terminal yang dioperasikan oleh Stepbystep. Pengguna dapat mengunggah dan mendengarkan hingga 1 miliar lagu tanpa biaya.</h5>
 
 <p align="center">
-  <a href="www.python.org">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Language-Python2-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/X-Music/blob/master/LICENSE">
