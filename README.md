@@ -1,11 +1,11 @@
-<h1 align="center">X-Musik</h1>
+<h1 align="center">X-Music</h1>
 <h5 align="center">X-Music adalah layanan streaming musik dan lemari musik terminal yang dioperasikan oleh Stepbystep. Pengguna dapat mengunggah dan mendengarkan hingga 1 miliar lagu tanpa biaya.</h5>
 
 <p align="center">
   <a href="www.python.org">
     <img src="https://img.shields.io/badge/Language-Python2-blue.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/X-Musik/blob/master/LICENSE">
+  <a href="https://github.com/stepbystepexe/X-Music/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red.svg">
   </a>
   <a href="https://opensource.org">
@@ -15,7 +15,7 @@
 
 <h4 align="center">Tampilan</h4>
 <p align="center">
-  <img src="https://github.com/stepbystepexe/X-Musik/blob/master/Skrinsut.png" width="300">
+  <img src="https://github.com/stepbystepexe/X-Music/blob/master/Skrinsut.png" width="300">
 </a></p>
 
 <h5>
@@ -25,12 +25,12 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FX-Musik" alt="Twitter"> <br>
+ <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FX-Music" alt="Twitter"> <br>
 </p>
 
 ### Informasi:
 ```text
-Nama        : X-Musik
+Nama        : X-Music
 Versi       : 2.3 (Update: 31 April 2020, 11:00 PM)
 Tanggal     : 20 Oktober 2019
 Author      : Nedi Senja
@@ -50,8 +50,8 @@ NB          : Manusia gax ada yang sempurna
 
 ### Installisasi:
 ```text
-git clone https://github.com/stepbystepexe/X-Musik
-cd X-Musik
+git clone https://github.com/stepbystepexe/X-Music
+cd X-Music
 ls
 chmod +x
 ./x-music.py
